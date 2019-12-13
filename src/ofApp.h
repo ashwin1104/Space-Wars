@@ -67,4 +67,10 @@ public:
     void keyReleased(int key);
     // Initializes screen dimensions
     void setDimensions(int x, int y);
+    // Loads all imgaes
+    void processImages();
+    // sets up all spawn controllers
+    void controllerSetups();
+    // adds new spawns
+    void addSpawns();
 };
