@@ -16,8 +16,7 @@ A retro, 2D game in which your goal is to achieve the highest score you can poss
 6. Pressing spacebar shoots lasers out of your player's ship
 
 ## Rules to the Game
-You start with three lives. Enemy ships spawn every few seconds. Every time you shoot at an enemy spaceship you gain 10 points. If an enemy shoots at you, you lose a life. You may get bonus lives
-every so often if the bonus star touches your player's ship.
+You start with three lives. Enemy ships spawn every few seconds. Every time you shoot at an enemy spaceship you gain 10 points. If an enemy shoots at you, you lose a life. Every so often a bonus star may appear - grab it for an extra life!
 
 ## Dependencies
 1. openFrameworks
